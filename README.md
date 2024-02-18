@@ -2,8 +2,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=urkh" alt="urkh" /></a> </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urkh&theme=transparent)
-
 <!--
 **urkh/urkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
